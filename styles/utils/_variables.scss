@@ -1,0 +1,30 @@
+//? set your brand colors
+
+$white: #fff;
+$grey-black: #505050;
+
+$light-grey: #fafafa;
+$grey: #d7d7d7;
+$lgray: #717784;
+$gg: #696a86;
+
+$black-soft: #444;
+$black: #09090e;
+$black-green: #626780;
+$blue: #2c638f;
+$pink: #fff0f5;
+$yellow: #fffacd;
+$bgbut: #9b9bca;
+$white-light: #ffffff;
+//? override for project clarity
+
+$color-primary: $blue;
+$color-secondary: $pink;
+$color-tertiary: $yellow;
+
+// Основная сетка размеры
+$maxWidthContainer: 1145px;
+
+// margin, padding, border-radius, bg-color
+$pdn: 16px 66px 17px 67px;
+$brdr: 10px;
